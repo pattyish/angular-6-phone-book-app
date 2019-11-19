@@ -27,6 +27,10 @@ export class ContactsService {
     {
       name:'Jane',
       number:'088998877'
+    },
+    {
+      name: 'Patrick',
+      number: '0788997766'
     }
   ];
 
